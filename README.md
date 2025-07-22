@@ -47,10 +47,15 @@ The dashboard uses a dataset downloaded from [Kaggle](https://www.kaggle.com/) i
 
 ## 📁 Repository Structure
 📦 Blinkit-Dashboard
+
 ├── Blinkit_Dashboard.pbix # Power BI dashboard file
+
 ├── Dashboard_Screenshot.png # Preview screenshot
+
 ├── Blinkit_Data.xlsx # Kaggle dataset (Excel)
+
 └── README.md # Project documentation
+
 
 ---
 
